@@ -23,26 +23,26 @@ This is a qr-code component building project, which is my first project on front
 
 ### Screenshot
 
-![](qr-code-screenshot.png)
+![](qrcodescreenshotupdated.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/rawatdinesh10/qr-code-component]
+- Live Site URL: [https://rawatdinesh10.github.io/qr-code-component/]
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
--i have added internal style on body element to align the elements and added some margin because in the browser it was not showing properly and completely'
+-I have used h1, p, and div elements to structure the page. I have used flexbox to display elements in flex.
 
 
 ### What I learned
 
-I have learned the basics of HTML tags such as h1, p, and img tags. I have also learned about applying internal style CSS such as text-align, and margin. 
+I have learned the basics of HTML tags such as h1, p, and img tags. I have also learned about CSS flexbox to layout the elements on page. 
 
 
 
@@ -62,7 +62,7 @@ I am comfortable with basic HTML but i need to improve on CSS. I need to learn t
 
 ## Author
 
-- Website - [Dinesh Rawat](https://www.your-site.com)
+- Website - ["www.linkedin.com/in/dinesh-rawat-b89085257"]
 - Frontend Mentor - [@rawatdinesh10](https://www.frontendmentor.io/profile/rawatdinesh10)
 - Twitter - [@dineshrawat325](https://x.com/dineshrawat325)
 
